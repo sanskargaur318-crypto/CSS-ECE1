@@ -27,28 +27,9 @@ body{
     display: inline-flex;
     justify-content: center;
     margin-top: 100px;
-    margin-right: 200px;
-}
- #SK1{
     
-    margin-right: 100px;
 }
- #SK2{
-   
-    margin-right: 200px;
 
- }
-
- #SK3{
-   
-    margin-right: 400px;
-
- }
-
- #SK4{
-   
-    margin-right: 600px;
+#SK1{
+    margin-right: auto;
 }
- 
-
-   
